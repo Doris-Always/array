@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1547cbf0-13af-429e-a3ab-f5464351f9fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackarankCode/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnArray/ArrayWorks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnArray/CheckingEqualityOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnArray/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnArray/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnArray/SortArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnArray/SwitchPositionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayCardGame/DeckOfCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackarankCode/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackarankCode/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnArray/CopyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnArray/CopyArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,25 +32,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ReverseArray">
+}</component>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="CopyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnArray.CopyArray" />
       <module name="array" />
@@ -72,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackarankCode.RemoveArray" />
+    <configuration name="DeckOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayCardGame.DeckOfCards" />
       <module name="array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackarankCode.*" />
+          <option name="PATTERN" value="arrayCardGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,7 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveArrayTest.testThatICanAddToMyArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackarankCode.Solution" />
       <module name="array" />
       <extension name="coverage">
         <pattern>
@@ -106,15 +100,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hackarankCode" />
-      <option name="MAIN_CLASS_NAME" value="hackarankCode.RemoveArrayTest" />
-      <option name="METHOD_NAME" value="testThatICanAddToMyArray" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveArrayTest.testThatIcanCreateAnArrayOfElement_WithDifferentLengths" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackarankCode.SubArray" />
       <module name="array" />
       <extension name="coverage">
         <pattern>
@@ -122,21 +113,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hackarankCode" />
-      <option name="MAIN_CLASS_NAME" value="hackarankCode.RemoveArrayTest" />
-      <option name="METHOD_NAME" value="testThatIcanCreateAnArrayOfElement_WithDifferentLengths" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.SubArray" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.CopyArray" />
-        <item itemvalue="JUnit.RemoveArrayTest.testThatICanAddToMyArray" />
-        <item itemvalue="JUnit.RemoveArrayTest.testThatIcanCreateAnArrayOfElement_WithDifferentLengths" />
-        <item itemvalue="Application.RemoveArray" />
+        <item itemvalue="Application.DeckOfCards" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +136,19 @@
       <option name="presentableId" value="Default" />
       <updated>1659281683862</updated>
       <workItem from="1659281685683" duration="61526000" />
-      <workItem from="1660722380480" duration="39435000" />
+      <workItem from="1660722380480" duration="57404000" />
+      <workItem from="1661581389708" duration="16331000" />
+      <workItem from="1662973670723" duration="18000" />
+      <workItem from="1663395129792" duration="785000" />
+      <workItem from="1663398342148" duration="651000" />
+      <workItem from="1663502820890" duration="69000" />
+      <workItem from="1664398359947" duration="5927000" />
+      <workItem from="1664459315248" duration="1798000" />
+      <workItem from="1664470436803" duration="5640000" />
+      <workItem from="1664521905749" duration="4103000" />
+      <workItem from="1664614714363" duration="24000" />
+      <workItem from="1669277702428" duration="809000" />
+      <workItem from="1669339357284" duration="9007000" />
     </task>
     <servers />
   </component>
@@ -166,5 +165,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/array$CopyArray.ic" NAME="CopyArray Coverage Results" MODIFIED="1664460552700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>learnArray.*</FILTER>
+    </SUITE>
   </component>
 </project>
