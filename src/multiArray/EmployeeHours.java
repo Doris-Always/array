@@ -42,7 +42,7 @@ public class EmployeeHours {
             }
 
         }
-        //TODO not sorted according to descending order yet
+
         for (int i = 0; i < sumOfWorkingHour.length; i++) {
             System.out.println(sumOfWorkingHour[i]);
         }
